@@ -13,7 +13,7 @@ namespace create_flight_team.Graph
 
     public class Group : GraphResource
     {
-        public const string SchemaExtensionName = "YOUR_SCHEMA_EXTENSION_NAME";
+        public const string SchemaExtensionName = "extc9zmqra5_contosoFlightTeam";
 
         public string Description { get; set; }
         public string DisplayName { get; set; }
